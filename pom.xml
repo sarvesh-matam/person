@@ -59,7 +59,7 @@
 						<image>amazoncorretto:16</image>
 					</from>
 					<to>
-						<image>cipweather</image>
+						<image>person</image>
 						<tags>
 							<tag>latest</tag>
 							<tag>r_${project.version}</tag>
